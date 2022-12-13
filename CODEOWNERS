@@ -5,3 +5,5 @@ Python-2/ @debayan-example-github/python-team
 Python_Java/*.py @debayan-example-github/common_team @debayan-example-github/python-team
 Python_Java/*.java @debayan-example-github/common_team @debayan-example-github/java-team
 QA/ @debayan-example-github/qa-team @shivam-poddar @SudheerBantu
+mongo/ @debayan-example-github/mongo-team
+postgres/ @debayan-example-github/postgres-team
